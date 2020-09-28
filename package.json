@@ -11,6 +11,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/toolbar-android": "0.1.0-rc.2",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-agora": "^2.9.1-alpha.7",
